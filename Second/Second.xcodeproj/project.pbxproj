@@ -19,11 +19,11 @@
 		18EF73C11F45DBB200526A70 /* Model_ForFirst_info.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF73BD1F45DBB200526A70 /* Model_ForFirst_info.m */; };
 		18EF73C21F45DBB200526A70 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF73BF1F45DBB200526A70 /* SecondViewController.m */; };
 		18EF73C41F45DC0100526A70 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 18EF73C31F45DC0100526A70 /* Podfile */; };
-		18EF73C71F45DC4A00526A70 /* UIView+LayoutMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF73C61F45DC4A00526A70 /* UIView+LayoutMethods.m */; };
 		18EF73C91F45F91300526A70 /* libAFNetworking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18EF73C81F45F91300526A70 /* libAFNetworking.a */; };
 		18EF73CB1F45F91800526A70 /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18EF73CA1F45F91800526A70 /* libCordova.a */; };
 		18EF73CD1F45F91B00526A70 /* libBus.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 18EF73CC1F45F91B00526A70 /* libBus.a */; };
 		18EF73D31F45F9CD00526A70 /* Second.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 18EF73D21F45F9CD00526A70 /* Second.podspec */; };
+		18EF73D61F45FD2900526A70 /* UIView+LayoutMethods.m in Sources */ = {isa = PBXBuildFile; fileRef = 18EF73D51F45FD2900526A70 /* UIView+LayoutMethods.m */; };
 		99422B271246AAF97C53CAB0 /* libPods-Second.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A286D66DAF8D6D314E439851 /* libPods-Second.a */; };
 /* End PBXBuildFile section */
 
@@ -69,14 +69,14 @@
 		18EF73BE1F45DBB200526A70 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SecondViewController.h; path = Second/SecondViewController.h; sourceTree = "<group>"; };
 		18EF73BF1F45DBB200526A70 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SecondViewController.m; path = Second/SecondViewController.m; sourceTree = "<group>"; };
 		18EF73C31F45DC0100526A70 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = SOURCE_ROOT; };
-		18EF73C51F45DC4A00526A70 /* UIView+LayoutMethods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+LayoutMethods.h"; path = "../../../IOSFrame/IOSFrame/UIView+LayoutMethods.h"; sourceTree = "<group>"; };
-		18EF73C61F45DC4A00526A70 /* UIView+LayoutMethods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+LayoutMethods.m"; path = "../../../IOSFrame/IOSFrame/UIView+LayoutMethods.m"; sourceTree = "<group>"; };
 		18EF73C81F45F91300526A70 /* libAFNetworking.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libAFNetworking.a; path = "../../../../Library/Developer/Xcode/DerivedData/Second-dcoisrftjtnxyfcqtuksbmvywvaa/Build/Products/Debug-iphonesimulator/AFNetworking/libAFNetworking.a"; sourceTree = "<group>"; };
 		18EF73CA1F45F91800526A70 /* libCordova.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libCordova.a; path = "../../../../Library/Developer/Xcode/DerivedData/Second-dcoisrftjtnxyfcqtuksbmvywvaa/Build/Products/Debug-iphonesimulator/Cordova/libCordova.a"; sourceTree = "<group>"; };
 		18EF73CC1F45F91B00526A70 /* libBus.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBus.a; path = "../../../../Library/Developer/Xcode/DerivedData/Second-dcoisrftjtnxyfcqtuksbmvywvaa/Build/Products/Debug-iphonesimulator/Bus/libBus.a"; sourceTree = "<group>"; };
 		18EF73D01F45F97400526A70 /* ModelUserInfoItemPrt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ModelUserInfoItemPrt.h; path = Second/ModelUserInfoItemPrt.h; sourceTree = "<group>"; };
 		18EF73D11F45F97400526A70 /* ModelUserInfoServicePrt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ModelUserInfoServicePrt.h; path = Second/ModelUserInfoServicePrt.h; sourceTree = "<group>"; };
 		18EF73D21F45F9CD00526A70 /* Second.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Second.podspec; sourceTree = SOURCE_ROOT; };
+		18EF73D41F45FD2900526A70 /* UIView+LayoutMethods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+LayoutMethods.h"; path = "Second/UIView+LayoutMethods.h"; sourceTree = "<group>"; };
+		18EF73D51F45FD2900526A70 /* UIView+LayoutMethods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+LayoutMethods.m"; path = "Second/UIView+LayoutMethods.m"; sourceTree = "<group>"; };
 		36F69492648C2FC81CBF5DEB /* Pods-Second.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Second.release.xcconfig"; path = "Pods/Target Support Files/Pods-Second/Pods-Second.release.xcconfig"; sourceTree = "<group>"; };
 		A286D66DAF8D6D314E439851 /* libPods-Second.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Second.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -138,12 +138,12 @@
 				18EF73B91F45DB9F00526A70 /* part */,
 				18EF73891F45DB4800526A70 /* AppDelegate.h */,
 				18EF738A1F45DB4800526A70 /* AppDelegate.m */,
-				18EF73C51F45DC4A00526A70 /* UIView+LayoutMethods.h */,
-				18EF73C61F45DC4A00526A70 /* UIView+LayoutMethods.m */,
 				18EF73D01F45F97400526A70 /* ModelUserInfoItemPrt.h */,
 				18EF73D11F45F97400526A70 /* ModelUserInfoServicePrt.h */,
 				18EF738C1F45DB4800526A70 /* ViewController.h */,
 				18EF738D1F45DB4800526A70 /* ViewController.m */,
+				18EF73D41F45FD2900526A70 /* UIView+LayoutMethods.h */,
+				18EF73D51F45FD2900526A70 /* UIView+LayoutMethods.m */,
 				18EF73C31F45DC0100526A70 /* Podfile */,
 				18EF73D21F45F9CD00526A70 /* Second.podspec */,
 				18EF738F1F45DB4800526A70 /* Main.storyboard */,
@@ -406,7 +406,7 @@
 				18EF73881F45DB4800526A70 /* main.m in Sources */,
 				18EF73C11F45DBB200526A70 /* Model_ForFirst_info.m in Sources */,
 				18EF73C01F45DBB200526A70 /* Connector_Second.m in Sources */,
-				18EF73C71F45DC4A00526A70 /* UIView+LayoutMethods.m in Sources */,
+				18EF73D61F45FD2900526A70 /* UIView+LayoutMethods.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
