@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Second"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "Second."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "Second/Second/**/*.{h,m}", "Second/Second/*.{h,m}"
+  s.source_files  = "Second/Second/Second/**/*.{h,m}", "Second/Second/Second/*.{h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
